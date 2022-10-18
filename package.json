@@ -13,7 +13,7 @@
     "path": "^0.12.7",
     "path-browserify": "^1.0.1",
     "pdfvuer": "^1.9.2",
-    "polyfills": "^2.1.1",
+    "polyfills": "^1.9.5",
     "qwebchannel": "^5.9.0",
     "stream": "^0.0.2",
     "stream-browserify": "^3.0.0",
